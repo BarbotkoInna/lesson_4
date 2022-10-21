@@ -1,0 +1,49 @@
+.header {
+   font-family: "Roboto";
+}
+
+.header a {
+   color: deeppink;
+}
+
+h1 {
+   font-family: "Lato";
+   font-weight: 900;
+   color: blue;
+}
+
+h2 {
+   font-family: "Lato";
+   font-weight: 700;
+   color: green;
+}
+
+p span {
+   font-weight: 500;
+   color: green;
+}
+
+a.link {
+   font-family: "Lato";
+   font-weight: 700;
+   color: red;
+}
+
+.footer {
+   font-family: "Lato";
+}
+
+.footer a {
+   color: rgba(99, 11, 166, 0.859);
+   font-weight: 700;
+}
+
+.footer mark {
+   background-color: rgb(76, 207, 15);
+}
+
+.text p {
+   font-family: "Larsseit";
+}
+
+
